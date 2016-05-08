@@ -1,2 +1,2 @@
 # hello-world
-Information
+Information about myself
